@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Background Pattern</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="patternGradient">
+            <stop stop-color="#18181B" offset="0%"></stop>
+            <stop stop-color="#27272A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="url(#patternGradient)" x="0" y="0" width="1440" height="1024"></rect>
+        <path d="M0,0 L1440,0 L1440,1024 L0,1024 L0,0 Z M720,512 C831.045695,512 920,423.045695 920,312 C920,200.954305 831.045695,112 720,112 C608.954305,112 520,200.954305 520,312 C520,423.045695 608.954305,512 720,512 Z" fill-opacity="0.1" fill="#FFFFFF"></path>
+    </g>
+</svg>

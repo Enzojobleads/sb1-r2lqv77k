@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bolt Logo</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="boltGradient">
+            <stop stop-color="#2563EB" offset="0%"></stop>
+            <stop stop-color="#9333EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M128,32 L48,160 L112,160 L96,224 L176,96 L112,96 L128,32 Z" fill="url(#boltGradient)" fill-rule="nonzero"></path>
+    </g>
+</svg>
